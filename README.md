@@ -4,7 +4,7 @@
 
 ### Project URL
 
-This project is a community solution for "Basic Dockerfile" from **roadmap.sh**. You find project details [here](https://roadmap.sh/projects/basic-dockerfile).
+This project is a community solution for "Basic Dockerfile" from **roadmap.sh**. You can find project details [here](https://roadmap.sh/projects/basic-dockerfile).
 
 ### Project installation
 
